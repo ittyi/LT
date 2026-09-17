@@ -58,7 +58,7 @@
 
 * **思想**: 「人間がDockerを管理するな、テストコードに管理させろ」
 * **概要**: テストコードのライフサイクルに合わせて、Dockerコンテナを**自動で起動・破棄**してくれるライブラリ。事前に `docker-compose up` しておく必要すらありません。
-* **対応**: Python (FastAPI), Ruby (Rails), TypeScript など、ちゅらデータの主要スタックに公式対応 🚀
+* **対応**: Python (FastAPI), Ruby (Rails), TypeScript など、主要スタックに公式対応 🚀
   - 公式リポジトリだがメンテはコミュニティ主導
 
 
